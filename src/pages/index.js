@@ -224,35 +224,29 @@ const IndexPage = ({ location }) => {
 
             </ul> */}
             <ul>
-              <li>BBA Meet the Clubs - TBD More info soon!</li>
-              <li>Mass Meeting - TBD More info soon!</li>
+              <li>BBA Meet the Clubs - Jan 12th | 6-7 Ross Winter Garden</li>
+              <li>Mass Meeting - Jan 18th | 6pm Room TBD</li>
             </ul>
             <h4>Winter 23 Recruiting Dates:</h4>
             <ul>
-              <li>Application Due - TBD</li>
+              <li>Application Due - Jan 25th 11:59 pm</li>
               <li>Interviews [INVITE ONLY] - TBD</li>
               <li>Social Event [INVITE ONLY] - TBD</li>
-              <li>First Meeting for New Members - TBD</li>
+              <li>First Meeting for New Members - Feb 5th 8-9 pm (time subject to change)</li>
             </ul>
             <h4>Apply:</h4>
-            The application for the Winter 2023 cohort will be released on shorty. No
+            The application for the Winter 2023 cohort has been released. No
             experience is necessary and all grades and majors are welcome to
             apply. Contact the board by email if you have any questions at{' '}
-            <a href="mailto:StartUMboard2023@umich.edu">
-              StartUMboard2023@umich.edu
+            <a href="mailto:sbechar@umich.edu">
+              sbechar@umich.edu
             </a>
             .
           </p>
-          <Button href="https://docs.google.com/forms/d/e/1FAIpQLSesBYqKw7intVX6oC4847390UkQlkAwG7EErwNmlQ6kaqAFNw/viewform?usp=sf_link" target="_blank">
-            Sign Up for Recruiting Updates
-          </Button>
-          <Button href="https://forms.gle/KX5Yhq4puuvxJkVz5" target="_blank">
+          <Button href="https://docs.google.com/forms/d/e/1FAIpQLScDEx22tj_0KT7tvoJsAjrELIgckqMD6CXJLIH8DrNUGe9Zdw/viewform?usp=pp_url" target="_blank">
             Apply here
           </Button>
           <p style={{marginTop: '3%'}}>
-
-            <a href="https://michiganentrepreneursummit.com">Michigan Entrepreneur Summit</a>
-            <span>&nbsp;&nbsp;&nbsp;</span>
             <a href="https://www.linkedin.com/company/startum-entrepreneurship-umich/">LinkedIn</a>
             <span>&nbsp;&nbsp;&nbsp;</span>
             <a href="https://www.instagram.com/startumich/">Instagram</a>
