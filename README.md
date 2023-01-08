@@ -1,13 +1,7 @@
 ## Visit Site
 https://startum.co
 
-## Google Analytics
-email schrecka@umich.edu for credentials 
-
 ## Netlify
-[![Netlify Status](https://api.netlify.com/api/v1/badges/32a6098f-4ba1-4dff-a862-b1dbfb75c095/deploy-status)](https://app.netlify.com/sites/startumsite/deploys)
-
-https://app.netlify.com/sites/startumsite/deploys
 
 # Getting Started
 
